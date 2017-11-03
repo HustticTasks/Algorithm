@@ -1,7 +1,7 @@
-#算法组11月任务
-##截至时间
+# 算法组11月任务
+## 截至时间
 暂定11月12号
-##内容
+## 内容
 ### 1.有（fan）效（qiang）利用网络资源
 
 可选项：首先领取[Github的学生福利](https://education.github.com/pack)，配置好DigitalOcean的服务器后，在本机的不同操作系统上都用shadowsocks的客户端进行代理。（免费的！！！）
